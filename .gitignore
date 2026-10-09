@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+data/
+*.sqlite
+*.db
+*.sqlite-journal
+pglite-data/
+.eliza/
